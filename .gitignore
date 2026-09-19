@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+node_modules/
+dist/
+
+# Runtime data: generated locally, never committed.
+uploads/
+artifacts/
+reports/
+dataset/
+models/*.joblib
+models/*.json
+*.sqlite3
